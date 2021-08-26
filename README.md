@@ -1,7 +1,5 @@
-
-# Android Battery Manager
-
-This app help in getting useful battery information.
+# Affirmation-App
+This app is for getting daily affirmation in one place
 
 
 ## Screenshots
